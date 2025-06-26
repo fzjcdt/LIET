@@ -1,0 +1,762 @@
+
+============ Epoch 0 ============
+Train Acc: 0.0180
+Train Time: 52.8539
+Val Acc: 0.0070
+VAL FGSM Acc: 0.0070
+VAL PGD Acc: 0.0070
+Val Time: 4.6985
+============ Epoch 1 ============
+Train Acc: 0.0310
+Train Time: 51.5775
+Val Acc: 0.0070
+VAL FGSM Acc: 0.0070
+VAL PGD Acc: 0.0070
+Val Time: 4.7008
+============ Epoch 2 ============
+Train Acc: 0.0388
+Train Time: 51.7162
+Val Acc: 0.0070
+VAL FGSM Acc: 0.0070
+VAL PGD Acc: 0.0070
+Val Time: 4.7111
+============ Epoch 3 ============
+Train Acc: 0.0453
+Train Time: 51.7442
+Val Acc: 0.0070
+VAL FGSM Acc: 0.0070
+VAL PGD Acc: 0.0070
+Val Time: 4.7215
+============ Epoch 4 ============
+Train Acc: 0.0544
+Train Time: 51.6849
+Val Acc: 0.0070
+VAL FGSM Acc: 0.0070
+VAL PGD Acc: 0.0070
+Val Time: 4.7190
+============ Epoch 5 ============
+Train Acc: 0.0594
+Train Time: 51.3412
+Val Acc: 0.0070
+VAL FGSM Acc: 0.0070
+VAL PGD Acc: 0.0070
+Val Time: 4.6889
+============ Epoch 6 ============
+Train Acc: 0.0622
+Train Time: 51.6168
+Val Acc: 0.0070
+VAL FGSM Acc: 0.0070
+VAL PGD Acc: 0.0070
+Val Time: 4.7261
+============ Epoch 7 ============
+Train Acc: 0.0661
+Train Time: 51.6504
+Val Acc: 0.0070
+VAL FGSM Acc: 0.0070
+VAL PGD Acc: 0.0070
+Val Time: 4.7939
+============ Epoch 8 ============
+Train Acc: 0.0706
+Train Time: 51.5885
+Val Acc: 0.0140
+VAL FGSM Acc: 0.0130
+VAL PGD Acc: 0.0130
+Val Time: 4.7133
+============ Epoch 9 ============
+Train Acc: 0.0757
+Train Time: 51.7396
+Val Acc: 0.0180
+VAL FGSM Acc: 0.0140
+VAL PGD Acc: 0.0150
+Val Time: 4.7414
+============ Epoch 10 ============
+Train Acc: 0.0795
+Train Time: 51.6227
+Val Acc: 0.0240
+VAL FGSM Acc: 0.0170
+VAL PGD Acc: 0.0170
+Val Time: 4.7251
+============ Epoch 11 ============
+Train Acc: 0.0823
+Train Time: 51.7430
+Val Acc: 0.0240
+VAL FGSM Acc: 0.0150
+VAL PGD Acc: 0.0170
+Val Time: 4.7359
+============ Epoch 12 ============
+Train Acc: 0.0856
+Train Time: 51.8087
+Val Acc: 0.0230
+VAL FGSM Acc: 0.0130
+VAL PGD Acc: 0.0150
+Val Time: 4.7244
+============ Epoch 13 ============
+Train Acc: 0.0872
+Train Time: 51.8419
+Val Acc: 0.0210
+VAL FGSM Acc: 0.0130
+VAL PGD Acc: 0.0130
+Val Time: 4.7395
+============ Epoch 14 ============
+Train Acc: 0.0931
+Train Time: 51.5760
+Val Acc: 0.0270
+VAL FGSM Acc: 0.0150
+VAL PGD Acc: 0.0160
+Val Time: 4.7431
+============ Epoch 15 ============
+Train Acc: 0.0987
+Train Time: 51.6134
+Val Acc: 0.0240
+VAL FGSM Acc: 0.0120
+VAL PGD Acc: 0.0140
+Val Time: 4.7474
+============ Epoch 16 ============
+Train Acc: 0.0996
+Train Time: 51.6427
+Val Acc: 0.0300
+VAL FGSM Acc: 0.0140
+VAL PGD Acc: 0.0180
+Val Time: 4.7194
+============ Epoch 17 ============
+Train Acc: 0.1026
+Train Time: 51.5815
+Val Acc: 0.0320
+VAL FGSM Acc: 0.0160
+VAL PGD Acc: 0.0190
+Val Time: 4.7518
+============ Epoch 18 ============
+Train Acc: 0.1076
+Train Time: 51.6057
+Val Acc: 0.0330
+VAL FGSM Acc: 0.0190
+VAL PGD Acc: 0.0230
+Val Time: 4.7485
+============ Epoch 19 ============
+Train Acc: 0.1095
+Train Time: 51.8480
+Val Acc: 0.0280
+VAL FGSM Acc: 0.0180
+VAL PGD Acc: 0.0220
+Val Time: 4.7378
+============ Epoch 20 ============
+Train Acc: 0.1119
+Train Time: 51.5923
+Val Acc: 0.0270
+VAL FGSM Acc: 0.0160
+VAL PGD Acc: 0.0180
+Val Time: 4.7375
+============ Epoch 21 ============
+Train Acc: 0.1132
+Train Time: 51.5750
+Val Acc: 0.0260
+VAL FGSM Acc: 0.0180
+VAL PGD Acc: 0.0170
+Val Time: 4.7798
+============ Epoch 22 ============
+Train Acc: 0.1163
+Train Time: 51.5777
+Val Acc: 0.0220
+VAL FGSM Acc: 0.0170
+VAL PGD Acc: 0.0180
+Val Time: 4.7270
+============ Epoch 23 ============
+Train Acc: 0.1170
+Train Time: 51.5435
+Val Acc: 0.0180
+VAL FGSM Acc: 0.0160
+VAL PGD Acc: 0.0160
+Val Time: 4.7416
+============ Epoch 24 ============
+Train Acc: 0.1184
+Train Time: 51.5760
+Val Acc: 0.0160
+VAL FGSM Acc: 0.0150
+VAL PGD Acc: 0.0150
+Val Time: 4.7124
+============ Epoch 25 ============
+Train Acc: 0.1206
+Train Time: 51.5008
+Val Acc: 0.0180
+VAL FGSM Acc: 0.0150
+VAL PGD Acc: 0.0150
+Val Time: 4.7195
+============ Epoch 26 ============
+Train Acc: 0.1222
+Train Time: 51.5488
+Val Acc: 0.0150
+VAL FGSM Acc: 0.0130
+VAL PGD Acc: 0.0130
+Val Time: 4.7425
+============ Epoch 27 ============
+Train Acc: 0.1247
+Train Time: 51.5778
+Val Acc: 0.0130
+VAL FGSM Acc: 0.0130
+VAL PGD Acc: 0.0130
+Val Time: 4.7200
+============ Epoch 28 ============
+Train Acc: 0.1244
+Train Time: 51.5101
+Val Acc: 0.0130
+VAL FGSM Acc: 0.0120
+VAL PGD Acc: 0.0130
+Val Time: 4.7428
+============ Epoch 29 ============
+Train Acc: 0.1259
+Train Time: 51.5327
+Val Acc: 0.0120
+VAL FGSM Acc: 0.0120
+VAL PGD Acc: 0.0120
+Val Time: 4.7397
+============ Epoch 30 ============
+Train Acc: 0.1289
+Train Time: 51.5371
+Val Acc: 0.0120
+VAL FGSM Acc: 0.0120
+VAL PGD Acc: 0.0120
+Val Time: 4.7224
+============ Epoch 31 ============
+Train Acc: 0.1308
+Train Time: 51.5532
+Val Acc: 0.0120
+VAL FGSM Acc: 0.0120
+VAL PGD Acc: 0.0120
+Val Time: 4.7230
+============ Epoch 32 ============
+Train Acc: 0.1320
+Train Time: 51.4982
+Val Acc: 0.0120
+VAL FGSM Acc: 0.0120
+VAL PGD Acc: 0.0120
+Val Time: 4.7147
+============ Epoch 33 ============
+Train Acc: 0.1331
+Train Time: 51.5619
+Val Acc: 0.0120
+VAL FGSM Acc: 0.0120
+VAL PGD Acc: 0.0120
+Val Time: 4.7326
+============ Epoch 34 ============
+Train Acc: 0.1338
+Train Time: 51.4577
+Val Acc: 0.0120
+VAL FGSM Acc: 0.0120
+VAL PGD Acc: 0.0120
+Val Time: 4.7085
+============ Epoch 35 ============
+Train Acc: 0.1343
+Train Time: 51.4228
+Val Acc: 0.0120
+VAL FGSM Acc: 0.0120
+VAL PGD Acc: 0.0120
+Val Time: 4.7208
+============ Epoch 36 ============
+Train Acc: 0.1380
+Train Time: 51.5473
+Val Acc: 0.0120
+VAL FGSM Acc: 0.0120
+VAL PGD Acc: 0.0120
+Val Time: 4.6930
+============ Epoch 37 ============
+Train Acc: 0.1366
+Train Time: 51.5110
+Val Acc: 0.0120
+VAL FGSM Acc: 0.0120
+VAL PGD Acc: 0.0120
+Val Time: 4.7344
+============ Epoch 38 ============
+Train Acc: 0.1382
+Train Time: 51.5075
+Val Acc: 0.0130
+VAL FGSM Acc: 0.0120
+VAL PGD Acc: 0.0120
+Val Time: 4.6891
+============ Epoch 39 ============
+Train Acc: 0.1388
+Train Time: 51.4862
+Val Acc: 0.0120
+VAL FGSM Acc: 0.0130
+VAL PGD Acc: 0.0130
+Val Time: 4.7006
+============ Epoch 40 ============
+Train Acc: 0.1394
+Train Time: 51.4833
+Val Acc: 0.0130
+VAL FGSM Acc: 0.0110
+VAL PGD Acc: 0.0120
+Val Time: 4.7259
+============ Epoch 41 ============
+Train Acc: 0.1419
+Train Time: 51.4925
+Val Acc: 0.0160
+VAL FGSM Acc: 0.0110
+VAL PGD Acc: 0.0130
+Val Time: 4.6812
+============ Epoch 42 ============
+Train Acc: 0.1432
+Train Time: 51.3854
+Val Acc: 0.0220
+VAL FGSM Acc: 0.0170
+VAL PGD Acc: 0.0160
+Val Time: 4.7169
+============ Epoch 43 ============
+Train Acc: 0.1425
+Train Time: 51.4630
+Val Acc: 0.0260
+VAL FGSM Acc: 0.0200
+VAL PGD Acc: 0.0210
+Val Time: 4.7076
+============ Epoch 44 ============
+Train Acc: 0.1445
+Train Time: 51.5157
+Val Acc: 0.0380
+VAL FGSM Acc: 0.0260
+VAL PGD Acc: 0.0300
+Val Time: 4.7096
+============ Epoch 45 ============
+Train Acc: 0.1455
+Train Time: 51.4459
+Val Acc: 0.0510
+VAL FGSM Acc: 0.0310
+VAL PGD Acc: 0.0330
+Val Time: 4.7022
+============ Epoch 46 ============
+Train Acc: 0.1450
+Train Time: 51.4480
+Val Acc: 0.0620
+VAL FGSM Acc: 0.0400
+VAL PGD Acc: 0.0410
+Val Time: 4.7160
+============ Epoch 47 ============
+Train Acc: 0.1464
+Train Time: 51.4555
+Val Acc: 0.1010
+VAL FGSM Acc: 0.0520
+VAL PGD Acc: 0.0550
+Val Time: 4.7319
+============ Epoch 48 ============
+Train Acc: 0.1486
+Train Time: 51.4822
+Val Acc: 0.1360
+VAL FGSM Acc: 0.0670
+VAL PGD Acc: 0.0770
+Val Time: 4.6827
+============ Epoch 49 ============
+Train Acc: 0.1477
+Train Time: 51.5049
+Val Acc: 0.1660
+VAL FGSM Acc: 0.0840
+VAL PGD Acc: 0.0900
+Val Time: 4.7428
+============ Epoch 50 ============
+Train Acc: 0.1491
+Train Time: 51.4484
+Val Acc: 0.1790
+VAL FGSM Acc: 0.1010
+VAL PGD Acc: 0.1110
+Val Time: 4.7192
+============ Epoch 51 ============
+Train Acc: 0.1494
+Train Time: 51.4730
+Val Acc: 0.2070
+VAL FGSM Acc: 0.1190
+VAL PGD Acc: 0.1230
+Val Time: 4.6990
+============ Epoch 52 ============
+Train Acc: 0.1515
+Train Time: 51.4818
+Val Acc: 0.2270
+VAL FGSM Acc: 0.1210
+VAL PGD Acc: 0.1290
+Val Time: 4.7242
+============ Epoch 53 ============
+Train Acc: 0.1507
+Train Time: 51.7184
+Val Acc: 0.2410
+VAL FGSM Acc: 0.1220
+VAL PGD Acc: 0.1320
+Val Time: 4.7217
+============ Epoch 54 ============
+Train Acc: 0.1519
+Train Time: 51.4791
+Val Acc: 0.2480
+VAL FGSM Acc: 0.1340
+VAL PGD Acc: 0.1460
+Val Time: 4.7262
+============ Epoch 55 ============
+Train Acc: 0.1523
+Train Time: 51.2374
+Val Acc: 0.2610
+VAL FGSM Acc: 0.1510
+VAL PGD Acc: 0.1580
+Val Time: 4.7192
+============ Epoch 56 ============
+Train Acc: 0.1567
+Train Time: 51.4791
+Val Acc: 0.2690
+VAL FGSM Acc: 0.1570
+VAL PGD Acc: 0.1710
+Val Time: 4.6905
+============ Epoch 57 ============
+Train Acc: 0.1538
+Train Time: 51.5061
+Val Acc: 0.2860
+VAL FGSM Acc: 0.1710
+VAL PGD Acc: 0.1770
+Val Time: 4.7128
+============ Epoch 58 ============
+Train Acc: 0.1590
+Train Time: 51.4862
+Val Acc: 0.2910
+VAL FGSM Acc: 0.1770
+VAL PGD Acc: 0.1780
+Val Time: 4.7132
+============ Epoch 59 ============
+Train Acc: 0.1584
+Train Time: 51.4033
+Val Acc: 0.2940
+VAL FGSM Acc: 0.1780
+VAL PGD Acc: 0.1850
+Val Time: 4.6885
+============ Epoch 60 ============
+Train Acc: 0.1613
+Train Time: 51.3968
+Val Acc: 0.2970
+VAL FGSM Acc: 0.1800
+VAL PGD Acc: 0.1860
+Val Time: 4.7083
+============ Epoch 61 ============
+Train Acc: 0.1608
+Train Time: 51.5315
+Val Acc: 0.2990
+VAL FGSM Acc: 0.1810
+VAL PGD Acc: 0.1840
+Val Time: 4.6850
+============ Epoch 62 ============
+Train Acc: 0.1626
+Train Time: 51.3682
+Val Acc: 0.3020
+VAL FGSM Acc: 0.1840
+VAL PGD Acc: 0.1860
+Val Time: 4.7132
+============ Epoch 63 ============
+Train Acc: 0.1639
+Train Time: 51.3506
+Val Acc: 0.3020
+VAL FGSM Acc: 0.1910
+VAL PGD Acc: 0.1930
+Val Time: 4.7134
+============ Epoch 64 ============
+Train Acc: 0.1671
+Train Time: 51.3666
+Val Acc: 0.3080
+VAL FGSM Acc: 0.1910
+VAL PGD Acc: 0.1960
+Val Time: 4.7072
+============ Epoch 65 ============
+Train Acc: 0.1688
+Train Time: 51.3640
+Val Acc: 0.3090
+VAL FGSM Acc: 0.1880
+VAL PGD Acc: 0.1950
+Val Time: 4.7023
+============ Epoch 66 ============
+Train Acc: 0.1706
+Train Time: 51.4440
+Val Acc: 0.3090
+VAL FGSM Acc: 0.1880
+VAL PGD Acc: 0.2000
+Val Time: 4.6826
+============ Epoch 67 ============
+Train Acc: 0.1730
+Train Time: 51.6448
+Val Acc: 0.3130
+VAL FGSM Acc: 0.1950
+VAL PGD Acc: 0.1970
+Val Time: 4.7311
+============ Epoch 68 ============
+Train Acc: 0.2155
+Train Time: 51.6954
+Val Acc: 0.3170
+VAL FGSM Acc: 0.1920
+VAL PGD Acc: 0.1970
+Val Time: 4.7075
+============ Epoch 69 ============
+Train Acc: 0.3318
+Train Time: 51.5066
+Val Acc: 0.3130
+VAL FGSM Acc: 0.1670
+VAL PGD Acc: 0.1820
+Val Time: 4.7189
+============ Epoch 70 ============
+Train Acc: 0.3381
+Train Time: 51.4923
+Val Acc: 0.2870
+VAL FGSM Acc: 0.1350
+VAL PGD Acc: 0.1560
+Val Time: 4.7174
+============ Epoch 71 ============
+Train Acc: 0.3554
+Train Time: 51.4485
+Val Acc: 0.2840
+VAL FGSM Acc: 0.1220
+VAL PGD Acc: 0.1330
+Val Time: 4.7060
+============ Epoch 72 ============
+Train Acc: 0.3725
+Train Time: 51.4195
+Val Acc: 0.2870
+VAL FGSM Acc: 0.1150
+VAL PGD Acc: 0.1280
+Val Time: 4.7118
+============ Epoch 73 ============
+Train Acc: 0.4330
+Train Time: 51.4119
+Val Acc: 0.2950
+VAL FGSM Acc: 0.1130
+VAL PGD Acc: 0.1280
+Val Time: 4.7043
+============ Epoch 74 ============
+Train Acc: 0.3171
+Train Time: 51.4188
+Val Acc: 0.2930
+VAL FGSM Acc: 0.1050
+VAL PGD Acc: 0.1220
+Val Time: 4.7215
+============ Epoch 75 ============
+Train Acc: 0.4551
+Train Time: 51.4521
+Val Acc: 0.3190
+VAL FGSM Acc: 0.1190
+VAL PGD Acc: 0.1330
+Val Time: 4.7123
+============ Epoch 76 ============
+Train Acc: 0.4819
+Train Time: 51.4322
+Val Acc: 0.3510
+VAL FGSM Acc: 0.1200
+VAL PGD Acc: 0.1360
+Val Time: 4.7245
+============ Epoch 77 ============
+Train Acc: 0.5247
+Train Time: 51.3910
+Val Acc: 0.3760
+VAL FGSM Acc: 0.1280
+VAL PGD Acc: 0.1420
+Val Time: 4.7056
+============ Epoch 78 ============
+Train Acc: 0.5853
+Train Time: 51.6716
+Val Acc: 0.3960
+VAL FGSM Acc: 0.1310
+VAL PGD Acc: 0.1410
+Val Time: 4.7111
+============ Epoch 79 ============
+Train Acc: 0.6114
+Train Time: 51.6167
+Val Acc: 0.4170
+VAL FGSM Acc: 0.1350
+VAL PGD Acc: 0.1440
+Val Time: 4.6957
+============ Epoch 80 ============
+Train Acc: 0.5664
+Train Time: 51.4331
+Val Acc: 0.4350
+VAL FGSM Acc: 0.1340
+VAL PGD Acc: 0.1490
+Val Time: 4.7125
+============ Epoch 81 ============
+Train Acc: 0.6597
+Train Time: 51.5517
+Val Acc: 0.4630
+VAL FGSM Acc: 0.1380
+VAL PGD Acc: 0.1390
+Val Time: 4.6980
+============ Epoch 82 ============
+Train Acc: 0.6667
+Train Time: 51.3860
+Val Acc: 0.4820
+VAL FGSM Acc: 0.1440
+VAL PGD Acc: 0.1300
+Val Time: 4.7232
+============ Epoch 83 ============
+Train Acc: 0.6892
+Train Time: 51.5577
+Val Acc: 0.5000
+VAL FGSM Acc: 0.1460
+VAL PGD Acc: 0.1220
+Val Time: 4.7089
+============ Epoch 84 ============
+Train Acc: 0.7024
+Train Time: 51.7001
+Val Acc: 0.5220
+VAL FGSM Acc: 0.1590
+VAL PGD Acc: 0.1090
+Val Time: 4.7047
+============ Epoch 85 ============
+Train Acc: 0.7155
+Train Time: 51.4490
+Val Acc: 0.5400
+VAL FGSM Acc: 0.1850
+VAL PGD Acc: 0.1060
+Val Time: 4.7156
+============ Epoch 86 ============
+Train Acc: 0.7292
+Train Time: 51.3967
+Val Acc: 0.5490
+VAL FGSM Acc: 0.2010
+VAL PGD Acc: 0.0950
+Val Time: 4.7212
+============ Epoch 87 ============
+Train Acc: 0.7452
+Train Time: 51.3636
+Val Acc: 0.5620
+VAL FGSM Acc: 0.2270
+VAL PGD Acc: 0.0880
+Val Time: 4.7159
+============ Epoch 88 ============
+Train Acc: 0.7554
+Train Time: 51.3393
+Val Acc: 0.5680
+VAL FGSM Acc: 0.2520
+VAL PGD Acc: 0.0880
+Val Time: 4.7148
+============ Epoch 89 ============
+Train Acc: 0.7671
+Train Time: 51.3545
+Val Acc: 0.5690
+VAL FGSM Acc: 0.2760
+VAL PGD Acc: 0.0840
+Val Time: 4.7234
+============ Epoch 90 ============
+Train Acc: 0.7688
+Train Time: 51.3265
+Val Acc: 0.5720
+VAL FGSM Acc: 0.2950
+VAL PGD Acc: 0.0780
+Val Time: 4.7052
+============ Epoch 91 ============
+Train Acc: 0.7919
+Train Time: 51.3637
+Val Acc: 0.5730
+VAL FGSM Acc: 0.3280
+VAL PGD Acc: 0.0790
+Val Time: 4.7216
+============ Epoch 92 ============
+Train Acc: 0.7976
+Train Time: 51.3605
+Val Acc: 0.5770
+VAL FGSM Acc: 0.3590
+VAL PGD Acc: 0.0720
+Val Time: 4.7013
+============ Epoch 93 ============
+Train Acc: 0.7001
+Train Time: 51.4163
+Val Acc: 0.5820
+VAL FGSM Acc: 0.3800
+VAL PGD Acc: 0.0740
+Val Time: 4.7257
+============ Epoch 94 ============
+Train Acc: 0.6189
+Train Time: 51.5641
+Val Acc: 0.5810
+VAL FGSM Acc: 0.3160
+VAL PGD Acc: 0.0870
+Val Time: 4.6966
+============ Epoch 95 ============
+Train Acc: 0.5384
+Train Time: 51.3980
+Val Acc: 0.5620
+VAL FGSM Acc: 0.2410
+VAL PGD Acc: 0.1180
+Val Time: 4.7195
+============ Epoch 96 ============
+Train Acc: 0.4314
+Train Time: 51.1126
+Val Acc: 0.5510
+VAL FGSM Acc: 0.2170
+VAL PGD Acc: 0.1270
+Val Time: 4.6810
+============ Epoch 97 ============
+Train Acc: 0.4138
+Train Time: 51.3427
+Val Acc: 0.5430
+VAL FGSM Acc: 0.2010
+VAL PGD Acc: 0.1330
+Val Time: 4.6986
+============ Epoch 98 ============
+Train Acc: 0.4030
+Train Time: 51.2151
+Val Acc: 0.5360
+VAL FGSM Acc: 0.1960
+VAL PGD Acc: 0.1330
+Val Time: 4.7089
+============ Epoch 99 ============
+Train Acc: 0.4143
+Train Time: 51.4346
+Val Acc: 0.5300
+VAL FGSM Acc: 0.1910
+VAL PGD Acc: 0.1310
+Val Time: 4.7143
+
+Train acc list: [0.018040816326530613, 0.03095918367346939, 0.03875510204081633, 0.04528571428571428, 0.054448979591836734, 0.05936734693877551, 0.06218367346938775, 0.06608163265306123, 0.07061224489795918, 0.0756938775510204, 0.07951020408163266, 0.08230612244897959, 0.08555102040816326, 0.08716326530612245, 0.09314285714285714, 0.09869387755102041, 0.09955102040816327, 0.10261224489795918, 0.10763265306122449, 0.10948979591836734, 0.11191836734693877, 0.11318367346938775, 0.11634693877551021, 0.11702040816326531, 0.11844897959183673, 0.12061224489795919, 0.12224489795918367, 0.12471428571428571, 0.12438775510204082, 0.1259183673469388, 0.12893877551020408, 0.13081632653061223, 0.1320408163265306, 0.13308163265306122, 0.13379591836734694, 0.1343265306122449, 0.138, 0.13661224489795917, 0.13816326530612244, 0.1387551020408163, 0.1394081632653061, 0.1419387755102041, 0.14320408163265305, 0.14253061224489796, 0.14453061224489797, 0.14553061224489797, 0.1450204081632653, 0.14638775510204083, 0.14859183673469387, 0.14773469387755103, 0.14910204081632653, 0.14944897959183673, 0.15151020408163265, 0.1506734693877551, 0.15191836734693878, 0.15226530612244898, 0.1566530612244898, 0.15381632653061225, 0.159, 0.15844897959183674, 0.161265306122449, 0.16075510204081633, 0.16259183673469388, 0.16393877551020408, 0.16708163265306122, 0.16877551020408163, 0.17057142857142857, 0.1729795918367347, 0.21553061224489795, 0.33183673469387753, 0.33810204081632655, 0.3554285714285714, 0.372530612244898, 0.4330204081632653, 0.31712244897959185, 0.4551224489795918, 0.48189795918367345, 0.524734693877551, 0.585265306122449, 0.6114489795918367, 0.5664489795918367, 0.6596530612244897, 0.666734693877551, 0.6892448979591836, 0.7024285714285714, 0.7155102040816327, 0.7291836734693877, 0.7451632653061224, 0.7553673469387755, 0.7671428571428571, 0.768795918367347, 0.7919183673469388, 0.7976122448979592, 0.7000816326530612, 0.6188979591836735, 0.5383673469387755, 0.4313877551020408, 0.41375510204081634, 0.4030408163265306, 0.414265306122449]
+Val acc list: [0.007, 0.007, 0.007, 0.007, 0.007, 0.007, 0.007, 0.007, 0.014, 0.018, 0.024, 0.024, 0.023, 0.021, 0.027, 0.024, 0.03, 0.032, 0.033, 0.028, 0.027, 0.026, 0.022, 0.018, 0.016, 0.018, 0.015, 0.013, 0.013, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.013, 0.012, 0.013, 0.016, 0.022, 0.026, 0.038, 0.051, 0.062, 0.101, 0.136, 0.166, 0.179, 0.207, 0.227, 0.241, 0.248, 0.261, 0.269, 0.286, 0.291, 0.294, 0.297, 0.299, 0.302, 0.302, 0.308, 0.309, 0.309, 0.313, 0.317, 0.313, 0.287, 0.284, 0.287, 0.295, 0.293, 0.319, 0.351, 0.376, 0.396, 0.417, 0.435, 0.463, 0.482, 0.5, 0.522, 0.54, 0.549, 0.562, 0.568, 0.569, 0.572, 0.573, 0.577, 0.582, 0.581, 0.562, 0.551, 0.543, 0.536, 0.53]
+Val FGSM acc list: [0.007, 0.007, 0.007, 0.007, 0.007, 0.007, 0.007, 0.007, 0.013, 0.014, 0.017, 0.015, 0.013, 0.013, 0.015, 0.012, 0.014, 0.016, 0.019, 0.018, 0.016, 0.018, 0.017, 0.016, 0.015, 0.015, 0.013, 0.013, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.013, 0.011, 0.011, 0.017, 0.02, 0.026, 0.031, 0.04, 0.052, 0.067, 0.084, 0.101, 0.119, 0.121, 0.122, 0.134, 0.151, 0.157, 0.171, 0.177, 0.178, 0.18, 0.181, 0.184, 0.191, 0.191, 0.188, 0.188, 0.195, 0.192, 0.167, 0.135, 0.122, 0.115, 0.113, 0.105, 0.119, 0.12, 0.128, 0.131, 0.135, 0.134, 0.138, 0.144, 0.146, 0.159, 0.185, 0.201, 0.227, 0.252, 0.276, 0.295, 0.328, 0.359, 0.38, 0.316, 0.241, 0.217, 0.201, 0.196, 0.191]
+Val PGD acc list: [0.007, 0.007, 0.007, 0.007, 0.007, 0.007, 0.007, 0.007, 0.013, 0.015, 0.017, 0.017, 0.015, 0.013, 0.016, 0.014, 0.018, 0.019, 0.023, 0.022, 0.018, 0.017, 0.018, 0.016, 0.015, 0.015, 0.013, 0.013, 0.013, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.012, 0.013, 0.012, 0.013, 0.016, 0.021, 0.03, 0.033, 0.041, 0.055, 0.077, 0.09, 0.111, 0.123, 0.129, 0.132, 0.146, 0.158, 0.171, 0.177, 0.178, 0.185, 0.186, 0.184, 0.186, 0.193, 0.196, 0.195, 0.2, 0.197, 0.197, 0.182, 0.156, 0.133, 0.128, 0.128, 0.122, 0.133, 0.136, 0.142, 0.141, 0.144, 0.149, 0.139, 0.13, 0.122, 0.109, 0.106, 0.095, 0.088, 0.088, 0.084, 0.078, 0.079, 0.072, 0.074, 0.087, 0.118, 0.127, 0.133, 0.133, 0.131]
+Total training time: 5151.8930
+Total validation time: 471.7114
+Total FLOPs: 11.1094 PetaFLOPs
+
+
+
+
+clean accuracy: 31.84 %
+pgd-10 accuracy: 19.13 %
+pgd-20 accuracy: 16.99 %
+pgd-50 accuracy: 16.7 %
+
+using standard version including apgd-ce, apgd-t, fab-t, square.
+initial accuracy: 31.84%
+apgd-ce - 1/16 - 101 out of 200 successfully perturbed
+apgd-ce - 2/16 - 110 out of 200 successfully perturbed
+apgd-ce - 3/16 - 99 out of 200 successfully perturbed
+apgd-ce - 4/16 - 91 out of 200 successfully perturbed
+apgd-ce - 5/16 - 92 out of 200 successfully perturbed
+apgd-ce - 6/16 - 107 out of 200 successfully perturbed
+apgd-ce - 7/16 - 94 out of 200 successfully perturbed
+apgd-ce - 8/16 - 101 out of 200 successfully perturbed
+apgd-ce - 9/16 - 102 out of 200 successfully perturbed
+apgd-ce - 10/16 - 103 out of 200 successfully perturbed
+apgd-ce - 11/16 - 99 out of 200 successfully perturbed
+apgd-ce - 12/16 - 106 out of 200 successfully perturbed
+apgd-ce - 13/16 - 95 out of 200 successfully perturbed
+apgd-ce - 14/16 - 102 out of 200 successfully perturbed
+apgd-ce - 15/16 - 92 out of 200 successfully perturbed
+apgd-ce - 16/16 - 94 out of 184 successfully perturbed
+robust accuracy after APGD-CE: 15.96% (total time 114.7 s)
+apgd-t - 1/8 - 42 out of 200 successfully perturbed
+apgd-t - 2/8 - 58 out of 200 successfully perturbed
+apgd-t - 3/8 - 54 out of 200 successfully perturbed
+apgd-t - 4/8 - 54 out of 200 successfully perturbed
+apgd-t - 5/8 - 55 out of 200 successfully perturbed
+apgd-t - 6/8 - 36 out of 200 successfully perturbed
+apgd-t - 7/8 - 56 out of 200 successfully perturbed
+apgd-t - 8/8 - 48 out of 196 successfully perturbed
+robust accuracy after APGD-T: 11.93% (total time 535.0 s)
+fab-t - 1/6 - 0 out of 200 successfully perturbed
+fab-t - 2/6 - 0 out of 200 successfully perturbed
+fab-t - 3/6 - 0 out of 200 successfully perturbed
+fab-t - 4/6 - 0 out of 200 successfully perturbed
+fab-t - 5/6 - 0 out of 200 successfully perturbed
+fab-t - 6/6 - 0 out of 193 successfully perturbed
+robust accuracy after FAB-T: 11.93% (total time 1066.3 s)
+square - 1/6 - 1 out of 200 successfully perturbed
+square - 2/6 - 0 out of 200 successfully perturbed
+square - 3/6 - 0 out of 200 successfully perturbed
+square - 4/6 - 1 out of 200 successfully perturbed
+square - 5/6 - 0 out of 200 successfully perturbed
+square - 6/6 - 0 out of 193 successfully perturbed
+robust accuracy after SQUARE: 11.91% (total time 1722.2 s)
+max Linf perturbation: 0.06275, nan in tensor: 0, max: 1.00000, min: 0.00000
+robust accuracy: 11.91%
