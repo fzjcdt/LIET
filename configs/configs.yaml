@@ -15,7 +15,7 @@ cifar10:
     device: 'cuda:0'
     log_path: './logs/cifar10'
     image_size: 32
-    li_update: 10
+    li_update: 20
 
 cifar100:
     eps: 8
