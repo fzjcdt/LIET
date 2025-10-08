@@ -1,4 +1,4 @@
-This repository contains the official PyTorch implementation for the paper: **"Mitigating Catastrophic Overfitting in Fast Adversarial Training via Label Information Elimination"**.
+This repository contains the official PyTorch implementation for our ICCV 2025 paper: **[Mitigating Catastrophic Overfitting in Fast Adversarial Training via Label Information Elimination]()**.
 
 **[<font color="blue">Paper Link - TODO</font>]**
 
@@ -43,4 +43,7 @@ To reproduce Figure 1, Figure 2, and Table 1 from our paper, please refer to the
 
 ## Citation
 
-If you find this work useful for your research, please consider citing our paper: TODO
+If you find this work useful for your research, please consider citing our paper: 
+```
+TODO
+```
