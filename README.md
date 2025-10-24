@@ -1,6 +1,5 @@
-This repository contains the official PyTorch implementation for our ICCV 2025 paper: **[Mitigating Catastrophic Overfitting in Fast Adversarial Training via Label Information Elimination]()**.
+This repository contains the official PyTorch implementation for our ICCV 2025 paper: **[Mitigating Catastrophic Overfitting in Fast Adversarial Training via Label Information Elimination](https://openaccess.thecvf.com/content/ICCV2025/papers/Pan_Mitigating_Catastrophic_Overfitting_in_Fast_Adversarial_Training_via_Label_Information_ICCV_2025_paper.pdf)**.
 
-**[<font color="blue">Paper Link - TODO</font>]**
 
 ## Setup
 
@@ -45,5 +44,11 @@ To reproduce Figure 1, Figure 2, and Table 1 from our paper, please refer to the
 
 If you find this work useful for your research, please consider citing our paper: 
 ```
-TODO
+@inproceedings{pan2025mitigating,
+  title={Mitigating Catastrophic Overfitting in Fast Adversarial Training via Label Information Elimination},
+  author={Pan, Chao and Tang, Ke and Li, Qing and Yao, Xin},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={2991--3000},
+  year={2025}
+}
 ```
