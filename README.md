@@ -1,3 +1,5 @@
+> **Recommendation:** We suggest using the unified implementation in our open-source [FastAT Benchmark](https://github.com/fzjcdt/FastAT_Benchmark) for easier reproduction and fair comparison.
+
 This repository contains the official PyTorch implementation for our ICCV 2025 paper: **[Mitigating Catastrophic Overfitting in Fast Adversarial Training via Label Information Elimination](https://openaccess.thecvf.com/content/ICCV2025/papers/Pan_Mitigating_Catastrophic_Overfitting_in_Fast_Adversarial_Training_via_Label_Information_ICCV_2025_paper.pdf)**.
 
 
